@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digitRecognitionReactApp/static/css/main.7cb95b89.chunk.css",
+    "main.js": "/digitRecognitionReactApp/static/js/main.b53c67df.chunk.js",
+    "main.js.map": "/digitRecognitionReactApp/static/js/main.b53c67df.chunk.js.map",
+    "runtime-main.js": "/digitRecognitionReactApp/static/js/runtime-main.ac890443.js",
+    "runtime-main.js.map": "/digitRecognitionReactApp/static/js/runtime-main.ac890443.js.map",
+    "static/js/2.738f2d6d.chunk.js": "/digitRecognitionReactApp/static/js/2.738f2d6d.chunk.js",
+    "static/js/2.738f2d6d.chunk.js.map": "/digitRecognitionReactApp/static/js/2.738f2d6d.chunk.js.map",
+    "static/js/3.0d3259fa.chunk.js": "/digitRecognitionReactApp/static/js/3.0d3259fa.chunk.js",
+    "static/js/3.0d3259fa.chunk.js.map": "/digitRecognitionReactApp/static/js/3.0d3259fa.chunk.js.map",
+    "index.html": "/digitRecognitionReactApp/index.html",
+    "static/css/main.7cb95b89.chunk.css.map": "/digitRecognitionReactApp/static/css/main.7cb95b89.chunk.css.map",
+    "static/js/2.738f2d6d.chunk.js.LICENSE.txt": "/digitRecognitionReactApp/static/js/2.738f2d6d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac890443.js",
+    "static/js/2.738f2d6d.chunk.js",
+    "static/css/main.7cb95b89.chunk.css",
+    "static/js/main.b53c67df.chunk.js"
+  ]
+}
